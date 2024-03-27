@@ -1,7 +1,5 @@
 ---
 title: Welcome to my blog
 ---
-
----
-body: The body of my blog
+body: This is the body
 ---
